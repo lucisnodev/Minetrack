@@ -19,4 +19,11 @@
 		"ip": "play.cubecraft.net",
 		"type": "PC"
 	}
+
+	},
+	{
+		"name": "RushCraft",
+		"ip": "play.rushsmp.ml",
+		"type": "PC"
+	}
 ]
